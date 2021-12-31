@@ -1,0 +1,5 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseSeladaExemplo\ClasseSeladaExemplo\obj\Debug\net5.0\ClasseSeladaExemplo.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseSeladaExemplo\ClasseSeladaExemplo\obj\Debug\net5.0\ClasseSeladaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseSeladaExemplo\ClasseSeladaExemplo\obj\Debug\net5.0\ClasseSeladaExemplo.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseSeladaExemplo\ClasseSeladaExemplo\obj\Debug\net5.0\ClasseSeladaExemplo.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseSeladaExemplo\ClasseSeladaExemplo\obj\Debug\net5.0\ClasseSeladaExemplo.csproj.CoreCompileInputs.cache

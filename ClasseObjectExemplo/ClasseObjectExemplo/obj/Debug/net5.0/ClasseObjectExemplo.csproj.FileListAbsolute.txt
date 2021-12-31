@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\bin\Debug\net5.0\ClasseObjectExemplo.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\bin\Debug\net5.0\ClasseObjectExemplo.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\bin\Debug\net5.0\ClasseObjectExemplo.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\bin\Debug\net5.0\ClasseObjectExemplo.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\bin\Debug\net5.0\ClasseObjectExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\bin\Debug\net5.0\ref\ClasseObjectExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\bin\Debug\net5.0\ClasseObjectExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ClasseObjectExemplo.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ClasseObjectExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ClasseObjectExemplo.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ClasseObjectExemplo.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ClasseObjectExemplo.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ClasseObjectExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ref\ClasseObjectExemplo.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ClasseObjectExemplo.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\ClasseObjectExemplo\ClasseObjectExemplo\obj\Debug\net5.0\ClasseObjectExemplo.genruntimeconfig.cache
